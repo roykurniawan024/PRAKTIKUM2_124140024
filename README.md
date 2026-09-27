@@ -12,3 +12,11 @@
 2. Klik ikon panah hijau (*Run*) di sebelah kiri baris `@Test fun runSimulator()`.
 3. Pilih **Run**.
 4. Hasil output program akan langsung muncul pada tab **Run** di panel bawah Android Studio.
+
+---
+
+## Tugas Praktikum 3 - My Profile App
+
+**Screenshot Aplikasi:**
+
+![Tampilan My Profile App](Screenshot_3.png)
